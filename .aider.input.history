@@ -1,0 +1,54 @@
+
+# 2025-11-21 18:14:52.545203
++Code the following app
++```
++Token Buy List — текст для успішного розгортання
++
++Title: Token Buy List
++
++Description:
++Create a simple app that allows users to maintain a personal list of tokens they plan to buy. The app should work fully locally, without internet access or external APIs. All data is entered and managed manually by the user.
++
++Functionality:
++ • Show an input field labeled “Token Name” where the user can type the token they want to add to their buy list.
++ • Include a button labeled “Add Token” that adds the entered token to a visible list on the page.
++ • Below the input, display a section titled “Your Buy List” showing all added tokens in a simple list format.
++ • Each token in the list should have a small “Remove” button next to it, allowing the user to delete individual tokens.
++ • Add a “Clear All” button that removes the entire list at once.
++ • Validate input: if the user tries to add an empty token name, show a message:
++“Please enter a token name.”
++
++UI Requirements:
++ • Use only basic UI elements like text fields, buttons, and lists.
++ • Layout should be clean and simple.
++ • All actions (add, remove, clear) must update the list instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 18:14:52.545666
++Code the following app
++```
++Token Buy List — текст для успішного розгортання
++
++Title: Token Buy List
++
++Description:
++Create a simple app that allows users to maintain a personal list of tokens they plan to buy. The app should work fully locally, without internet access or external APIs. All data is entered and managed manually by the user.
++
++Functionality:
++ • Show an input field labeled “Token Name” where the user can type the token they want to add to their buy list.
++ • Include a button labeled “Add Token” that adds the entered token to a visible list on the page.
++ • Below the input, display a section titled “Your Buy List” showing all added tokens in a simple list format.
++ • Each token in the list should have a small “Remove” button next to it, allowing the user to delete individual tokens.
++ • Add a “Clear All” button that removes the entire list at once.
++ • Validate input: if the user tries to add an empty token name, show a message:
++“Please enter a token name.”
++
++UI Requirements:
++ • Use only basic UI elements like text fields, buttons, and lists.
++ • Layout should be clean and simple.
++ • All actions (add, remove, clear) must update the list instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
